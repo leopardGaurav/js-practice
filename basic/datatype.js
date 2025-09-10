@@ -12,6 +12,7 @@
 // 5.undefined
 // 6.symbol
 // 7.BigInt
+
 // 2. Reference/non-primitive --> type--> 3 type
 //1.Array
 //const heros = ["sghaktiman","naagraj","doga"]
