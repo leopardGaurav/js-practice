@@ -1,1 +1,1 @@
-console.log(y);
+console.log(gameName.length);
