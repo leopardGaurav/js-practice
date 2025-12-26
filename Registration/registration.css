@@ -37,7 +37,7 @@ h2 {
 }
 
 .input-box label{
-    position:absolute;
+    position:absolute; 
     top: 50%;
     left:5px;
     transform: translateY(-50%);
