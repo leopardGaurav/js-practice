@@ -15,7 +15,7 @@
 
 // 2. Reference/non-primitive --> type--> 3 type
 //1.Array
-//const heros = ["sghaktiman","naagraj","doga"]
+//const heros = ["shaktiman","naagraj","doga"]
 
 //2.Objects
 /*let myObj{
