@@ -1,0 +1,37 @@
+//immediately invoked function expressions (IIFE) in JavaScript
+// function greet(name) {
+//     console.log(`DB Connected`);
+// }
+
+// function greet(name) {
+//     console.log(`DB Connected`);
+// }
+// greet(); isko jab ham run karenge toh run karega
+
+// greet(); isko jab ham run karenge toh run karega
+// function greet(name) {
+//     console.log(`DB Connected`);
+// }(); isko jab ham run karenge toh run nahi karega balki error dega but jab ham
+
+// (function greet(name) {
+//     console.log(`DB Connected`);
+// })(); isko jab ham run karenge toh run karega
+
+//()() ist bala hai definatioin and 2nd bala hai executioin 
+
+//global scope se proble hoti hai kai baar toh usse bachne ke liye ham iife ka use karte hain
+
+//aur 2 iife ek sath likhna ho then semicolon ko dhyan rakhna
+//passing parameter
+// ((name)=>{
+//     console.log(`DB Connected ${name}`);
+// })('gaurav');
+
+
+
+
+
+
+
+
+
