@@ -18,7 +18,7 @@
 // hai usko print kiye toh jo tha wahi aa gaya  
 
 //+++++++++++++++heap++++++++++++
-//lekin hep me ham koi bhi change karte hai wo direct original value ka chnage hota hai
+//lekin heap me ham koi bhi change karte hai wo direct original value ka chnage hota hai
 //so ham pahle defined variable ko bhi change karne ke baad yadi print karenge toh sam value 
 //changed value print hogi
 // example of heap
